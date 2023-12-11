@@ -12,7 +12,7 @@ function kirimData() {
     }else if (username != user ) {
  
     }else {
-    document.getElementById("rakha").click());
+    document.getElementById("rakha").click();
     }
     
     const user1 = ("anasmaulana@rpl.co.id");
@@ -24,7 +24,7 @@ function kirimData() {
     }else if (username != user1 ) {
  
     }else {
-    document.getElementById("anas").click());
+    document.getElementById("anas").click();
     }
     const user2 = ("ryalfitrah@rpl.co.id");
     const pass2 = 9927;
@@ -35,7 +35,7 @@ function kirimData() {
     }else if (username != user2 ) {
  
     }else {
-    document.getElementById("ryal").click());
+    document.getElementById("ryal").click();
     }
     const user3 = ("adithdwi@rpl.co.id");
     const pass3 = 9920;
@@ -46,7 +46,7 @@ function kirimData() {
     }else if (username != user3 ) {
  
     }else {
-    document.getElementById("adith").click());
+    document.getElementById("adith").click();
     }
     const user4 = ("fataroriza@rpl.co.id");
     const pass4 = 9979;
@@ -57,7 +57,7 @@ function kirimData() {
     }else if (username != user4 ) {
  
     }else {
-    document.getElementById("fatar").click());
+    document.getElementById("fatar").click();
     }
     const user5 = ("aditmaulana@rpl.co.id");
     const pass5 = 9910;
@@ -68,7 +68,7 @@ function kirimData() {
     }else if (username != user5 ) {
  
     }else {
-    document.getElementById("adit").click());
+    document.getElementById("adit").click();
     }
     const user6 = ("giovani@rpl.co.id");
     const pass6 = 9911;
@@ -79,7 +79,7 @@ function kirimData() {
     }else if (username != user6 ) {
  
     }else {
-    document.getElementById("gio").click());
+    document.getElementById("gio").click();
     }
     const user7 = ("fareltrio@rpl.co.id");
     const pass7 = 9917;
@@ -90,6 +90,6 @@ function kirimData() {
     }else if (username != user7 ) {
  
     }else {
-    document.getElementById("farel").click());
+    document.getElementById("farel").click();
     }
 }

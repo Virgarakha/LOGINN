@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #3d6465;
+}
+
+.loginn {
+  margin-top: 120px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: white;
+  width: 80%;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.fnm img {
+  padding-top: 10px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 70px;
+  border-radius: 100px;
+}
+
+.fnm h1 {
+  text-align: center;
+  font-size: 18px;
+  padding: 20px 0;
+}
+
+.main .form-input {
+  text-align: center;
+  font-size: 15px;
+  font-family: arial;
+  font-weight: 550;
+}
+
+.tombol button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5px 10px;
+  background-color: #3d6465;
+  border: none;
+  border-radius: 10px;
+}
+
+.form-input input{
+  text-align: center;
+  padding: 10px 30px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.tombol button img {
+  height: 20px;
+}
+
+.tombol button a {
+  text-decoration: none;
+  color : white;
+}
+
+.tombol {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 20px;
+}
+
+.tombol button {
+  color: white;
+}
+
+.back button {
+  background-color: #344e4f;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+.back button a {
+  color: white;
+  text-decoration: none;
+}
+
+.back {
+  padding: 10px;
+}
+
+
+.akt2 img {
+  height: 15px;
+}
+
+.akt p {
+  font-weight: 550;
+  font-size: 13px;
+}
+
+.akt2 {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 135px;
+  margin-top: 20px;
+}

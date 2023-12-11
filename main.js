@@ -12,7 +12,7 @@ function kirimData() {
     }else if (username != user ) {
  
     }else {
-    document.getElementById("rakha").click();
+     alert ("Log Berhasil",document.getElementById("rakha").click());
     }
     
     const user1 = ("anasmaulana@rpl.co.id");
